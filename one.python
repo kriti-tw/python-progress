@@ -1,1 +1,6 @@
 print("Hello World")
+dict= {
+  "Harry": "Human Being",
+  "Kriti": "Kani"
+}
+print(dict["Harry"])
