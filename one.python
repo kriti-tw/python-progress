@@ -4,3 +4,8 @@ dict= {
   "Kriti": "Kani"
 }
 print(dict["Harry"])
+dict= {
+  "Harry": "Human Being",
+  "Kriti": "Kani"
+}
+print(dict["Harry"])
